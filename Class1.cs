@@ -1,8 +1,5 @@
 ﻿using System;
 
-namespace Mneumonic
-{
-    public class Class1
-    {
-    }
+namespace Mnemonic {
+    public class Class1 { }
 }
