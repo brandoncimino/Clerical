@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a21d0f9-a4f0-4d03-8e81-c1b6d1a8c583" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Test/Test.csproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test/UnitTest1.cs" afterDir="false" />
+    <list default="true" id="7a21d0f9-a4f0-4d03-8e81-c1b6d1a8c583" name="Changes" comment="- Added unit test project&#10;- Fixed package layout">
+      <change afterPath="$PROJECT_DIR$/Mnemonic/CustomDirectoryInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mnemonic/CustomFileInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Mnemonic/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Mnemonic/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Class1.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mnemonic.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Mnemonic.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Mnemonic.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Mnemonic.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mnemonic/Class1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mnemonic/Mnemonic.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Mnemonic/Mnemonic.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Test/Test.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Test/Test.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +24,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/6d13c30e8d2c4f458a43ba680cd6b33d35178/24/FileInfo.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1yCwgesLNiXLt5qLC5obiLTY9ED" />
   <component name="ProjectLevelVcsManager">
@@ -53,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1631768991415</updated>
       <workItem from="1631769011998" duration="1243000" />
+      <workItem from="1631770283468" duration="1198000" />
     </task>
     <task id="LOCAL-00001" summary="Renamed project from Mneumonic -&gt; Mnemonic">
       <created>1631769050569</created>
@@ -61,14 +65,28 @@
       <option name="project" value="LOCAL" />
       <updated>1631769050569</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="- Added unit test project&#10;- Fixed package layout">
+      <created>1631770371545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1631770371545</updated>
+    </task>
+    <task id="LOCAL-00003" summary="- Added unit test project&#10;- Fixed package layout">
+      <created>1631770421763</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1631770421763</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -80,11 +98,13 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Renamed project from Mneumonic -&gt; Mnemonic" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed project from Mneumonic -&gt; Mnemonic" />
+    <MESSAGE value="- Added unit test project&#10;- Fixed package layout" />
+    <option name="LAST_COMMIT_MESSAGE" value="- Added unit test project&#10;- Fixed package layout" />
   </component>
 </project>
