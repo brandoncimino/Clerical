@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{B3A46EB0-CE39-4F04-9A07-E0CC0FDD8C0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mnemonic", "Mnemonic\Mnemonic.csproj", "{C8BDB940-FB92-47F8-9732-F01FE1C5D1DC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clerical", "Clerical\Clerical.csproj", "{C8BDB940-FB92-47F8-9732-F01FE1C5D1DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

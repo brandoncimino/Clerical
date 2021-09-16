@@ -4,7 +4,7 @@ using System.Security;
 
 using JetBrains.Annotations;
 
-namespace Mnemonic {
+namespace Clerical {
     /// <summary>
     /// A pass-through wrapper for <see cref="System.IO.FileInfo"/> that essentially makes <see cref="System.IO.FileInfo"/> extensible.
     /// </summary>

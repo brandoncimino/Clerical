@@ -4,7 +4,7 @@ using System.Security;
 
 using JetBrains.Annotations;
 
-namespace Mnemonic {
+namespace Clerical {
     /// <summary>
     /// A pass-through wrapper around <see cref="System.IO.DirectoryInfo"/> that essentially allows <see cref="System.IO.DirectoryInfo"/> to be inherited.
     /// </summary>
